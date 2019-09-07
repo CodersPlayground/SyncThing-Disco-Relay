@@ -6,17 +6,23 @@ The files for this container can be found at my [GitHub repo](https://hub.docker
 Credits & Forked from t4skforce
 https://github.com/t4skforce/syncthing-relay-discovery
 
-Updated disco & relay to latest
+Updated disco & relay to latest v1.2.2
+
+[![](https://images.microbadger.com/badges/version/codersplayground/syncthing-disco-relay.svg)](https://microbadger.com/images/codersplayground/syncthing-disco-relay "")
 
 
 
+
+
+
+-------------------------------------------------------
 -----------------Quoted From t4skforce-----------------
+-------------------------------------------------------
 # syncthing-relay-discovery
 Docker Container for the global relay server for the [http://syncthing.net/](http://syncthing.net/) project. I build the container because ther is no official one. This build is listening on the gihub project of the relay server and gets updated whenever there is a code change. [relaysrv GitHub repo](https://github.com/syncthing/relaysrv) and [dicosrv GitHub repo](https://github.com/syncthing/discosrv). The container is intendet for people who like to roll their own private syncthing "cloud".
 
 The files for this container can be found at my [GitHub repo](https://github.com/t4skforce/syncthing-relay-discovery)
 
-[![](https://images.microbadger.com/badges/image/t4skforce/syncthing-relay-discovery.svg)](http://microbadger.com/images/t4skforce/syncthing-relay-discovery "Get your own image badge on microbadger.com") [![](https://img.shields.io/docker/automated/t4skforce/syncthing-relay-discovery.svg)](https://cloud.docker.com/repository/docker/t4skforce/syncthing-relay-discovery) [![](https://img.shields.io/docker/build/t4skforce/syncthing-relay-discovery.svg)](https://cloud.docker.com/repository/docker/t4skforce/syncthing-relay-discovery) [![](https://images.microbadger.com/badges/version/t4skforce/syncthing-relay-discovery.svg)](http://microbadger.com/images/t4skforce/syncthing-relay-discovery "Get your own version badge on microbadger.com") [![](https://img.shields.io/docker/pulls/t4skforce/syncthing-relay-discovery.svg)](https://cloud.docker.com/repository/docker/t4skforce/syncthing-relay-discovery) [![](https://img.shields.io/docker/stars/t4skforce/syncthing-relay-discovery.svg)](https://cloud.docker.com/repository/docker/t4skforce/syncthing-relay-discovery) [![](https://img.shields.io/github/last-commit/t4skforce/syncthing-relay-discovery.svg)](https://github.com/t4skforce/syncthing-relay-discovery) [![](https://img.shields.io/maintenance/yes/2019.svg)](https://github.com/t4skforce/syncthing-relay-discovery) [![](https://img.shields.io/github/issues-raw/t4skforce/syncthing-relay-discovery.svg)](https://github.com/t4skforce/syncthing-relay-discovery/issues) [![](https://img.shields.io/github/issues-pr-raw/t4skforce/syncthing-relay-discovery.svg)](https://github.com/t4skforce/syncthing-relay-discovery/pulls)
 
 
 # About the Container
