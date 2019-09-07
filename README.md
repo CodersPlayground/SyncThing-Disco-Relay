@@ -1,5 +1,7 @@
 # SyncThing-Disco-Relay
 
+SyncThing Discovery & Relay Servers
+
 The files for this container can be found at my [GitHub repo](https://hub.docker.com/r/codersplayground/syncthing-disco-relay)
 
 
