@@ -3,10 +3,6 @@
 SyncThing Discovery & Relay Servers
 
 
-Credits & Forked from t4skforce
-The files for this container can be found at my [t4skforce's GitHub](https://github.com/t4skforce/syncthing-relay-discovery)
-
-
 * Updated disco & relay to latest v1.2.2
 * Changed Base to amd64/debian:latest
 
@@ -15,6 +11,10 @@ My Docker Hub Link [Docker Hub](https://cloud.docker.com/repository/docker/coder
 
 [![](https://images.microbadger.com/badges/version/codersplayground/syncthing-disco-relay.svg)](https://microbadger.com/images/codersplayground/syncthing-disco-relay "")
 
+
+
+Credits & Forked from t4skforce
+The files for this container can be found at my [t4skforce's GitHub](https://github.com/t4skforce/syncthing-relay-discovery)
 
 
 
