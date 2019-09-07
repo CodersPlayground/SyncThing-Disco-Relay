@@ -3,9 +3,9 @@
 SyncThing Discovery & Relay Servers
 
 
-
 Credits & Forked from t4skforce
-https://github.com/t4skforce/syncthing-relay-discovery
+The files for this container can be found at my [t4skforce's GitHub](https://github.com/t4skforce/syncthing-relay-discovery)
+
 
 * Updated disco & relay to latest v1.2.2
 * Changed Base to amd64/debian:latest
