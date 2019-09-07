@@ -6,8 +6,8 @@ The files for this container can be found at my [GitHub repo](https://hub.docker
 Credits & Forked from t4skforce
 https://github.com/t4skforce/syncthing-relay-discovery
 
-Updated disco & relay to latest v1.2.2
-Changed Base to amd64/debian:latest
+* Updated disco & relay to latest v1.2.2
+* Changed Base to amd64/debian:latest
 
 [![](https://images.microbadger.com/badges/version/codersplayground/syncthing-disco-relay.svg)](https://microbadger.com/images/codersplayground/syncthing-disco-relay "")
 
