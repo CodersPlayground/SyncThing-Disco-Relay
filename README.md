@@ -8,6 +8,11 @@ SyncThing Discovery & Relay Servers
 
 My Docker Hub Link [Docker Hub](https://cloud.docker.com/repository/docker/codersplayground/syncthing-disco-relay)
 
+Supported tags: 
+
+* i386
+* amd64, latest
+
 
 [![](https://images.microbadger.com/badges/version/codersplayground/syncthing-disco-relay.svg)](https://microbadger.com/images/codersplayground/syncthing-disco-relay "")
 
