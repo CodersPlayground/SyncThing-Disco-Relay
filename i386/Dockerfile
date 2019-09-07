@@ -1,4 +1,3 @@
-LABEL version="1.2.2"
 FROM debian:latest
 ########################################
 #              Settings                #
