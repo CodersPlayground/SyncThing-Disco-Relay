@@ -4,7 +4,7 @@ SyncThing Discovery & Relay Servers
 
 
 * Updated disco & relay to latest v1.2.2
-* Changed Base to amd64/debian:latest
+* Added Base to amd64/debian:latest
 
 My Docker Hub Link [Docker Hub](https://cloud.docker.com/repository/docker/codersplayground/syncthing-disco-relay)
 
