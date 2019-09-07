@@ -1,3 +1,5 @@
+LABEL version="1.2.2"
+
 FROM amd64/debian:latest
 ########################################
 #              Settings                #
