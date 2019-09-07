@@ -10,7 +10,7 @@ The files for this container can be found at my [t4skforce's GitHub](https://git
 * Updated disco & relay to latest v1.2.2
 * Changed Base to amd64/debian:latest
 
-The files for this container can be found at my [Docker Hub](https://cloud.docker.com/repository/docker/codersplayground/syncthing-disco-relay)
+My Docker Hub Link [Docker Hub](https://cloud.docker.com/repository/docker/codersplayground/syncthing-disco-relay)
 
 
 [![](https://images.microbadger.com/badges/version/codersplayground/syncthing-disco-relay.svg)](https://microbadger.com/images/codersplayground/syncthing-disco-relay "")
