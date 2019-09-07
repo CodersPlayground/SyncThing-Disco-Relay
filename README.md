@@ -13,8 +13,7 @@ My Docker Hub Link [Docker Hub](https://cloud.docker.com/repository/docker/coder
 
 
 
-Credits & Forked from t4skforce
-The files for this container can be found at my [t4skforce's GitHub](https://github.com/t4skforce/syncthing-relay-discovery)
+Credits & Forked from t4skforce [t4skforce's GitHub](https://github.com/t4skforce/syncthing-relay-discovery)
 
 
 
