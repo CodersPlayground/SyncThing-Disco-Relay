@@ -85,3 +85,4 @@ VOLUME ${USER_HOME}/certs
 USER $USERNAME
 WORKDIR ${USER_HOME}/server/
 CMD /usr/bin/supervisord -c "${USER_HOME}/supervisord.conf"
+
